@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCzGKXxJ8IUpYRa5xqQkWZOmUChSAlVKMo",
-  authDomain: "fir-auth-react-e8399.firebaseapp.com",
-  projectId: "fir-auth-react-e8399",
-  storageBucket: "fir-auth-react-e8399.appspot.com",
-  messagingSenderId: "962605851630",
-  appId: "1:962605851630:web:8a54bce7d9047760a9e4ff",
+  apiKey: "AIzaSyBgyLxAcCvS6zFdwA96KfNCjCrkMQcu1DI",
+    authDomain: "w4stores-auth.firebaseapp.com",
+    projectId: "w4stores-auth",
+    storageBucket: "w4stores-auth.appspot.com",
+    messagingSenderId: "427202011168",
+    appId: "1:427202011168:web:e4e0771a00f4e262e55c45"
 };
 
 export const app = initializeApp(firebaseConfig);
